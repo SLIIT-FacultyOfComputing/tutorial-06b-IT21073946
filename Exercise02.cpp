@@ -5,7 +5,7 @@ using namespace std;
 int main() {
   
    // 1. Create a Box type object called box1
-  
+    box b1;
   
    // ======= DO NOT CHANGE THE INPUT ===========
    int height, length, width;
